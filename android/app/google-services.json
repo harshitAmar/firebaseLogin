@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "688287116342",
+    "project_id": "emailpasswordauth-badda",
+    "storage_bucket": "emailpasswordauth-badda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688287116342:android:c3ba37cbca84acd7147c97",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688287116342-jmvp4g9n311nhbhjjvlne3jrkv76ap38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_login_new",
+            "certificate_hash": "5558f432f6f5e8a84c66168c2d33aa1de4858463"
+          }
+        },
+        {
+          "client_id": "688287116342-4dr16ohoas3dgr1scponjjgb1n249sgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCvvkti-DEQ1rmgb4da45Jdc3U6XMgZ4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688287116342-4dr16ohoas3dgr1scponjjgb1n249sgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
